@@ -24,12 +24,12 @@
           >
           <span class="flex gap-4">
             <button
-              class="flex gap-1 items-center p-2 px-6 bg-white rounded-full shadow-lg bg-gradient-to-tr text-webPrimary text-sm"
+              class="flex gap-1 items-center hover:-translate-y-2 duration-300 p-2 px-6 bg-white rounded-full shadow-lg bg-gradient-to-tr text-webPrimary text-sm"
             >
               <i class="fas fa-sign-in-alt"></i>Masuk
             </button>
             <button
-              class="flex gap-1 items-center p-2 px-6 bg-orange-400 hover:bg-orange-500 duration-300 rounded-full shadow-lg bg-gradient-to-tr text-white text-sm"
+              class="flex gap-1 items-center p-2 px-6 from-orange-300 to-webPrimary bg-gradient-to-br hover:-translate-y-2 duration-300 rounded-full shadow-lg text-white text-sm"
             >
               <i class="fas fa-user-plus"></i>Daftar
             </button>
@@ -103,7 +103,7 @@
             </div>
             <div>
               <button
-                class="items-center p-2 px-6 bg-webPrimary bg-gradient-to-bl text-white mt-1 rounded-full hover:bg-webPrimary-dark shadow-md duration-300 flex gap-1"
+                class="items-center p-2 px-6 hover:-translate-y-2 from-orange-300 to-webPrimary bg-gradient-to-br text-white mt-1 rounded-full hover:bg-webPrimary-dark shadow-md duration-300 flex gap-1"
               >
                 <i class="fas fa-phone text-sm"></i>Kontak Kami
               </button>
